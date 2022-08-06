@@ -1,0 +1,14 @@
+<!DOCTYPE CSS>
+
+h1.em, {
+    text-align: center
+    color:black;
+    font-size:25px;
+    font-family: helvetica, Sans-serif;
+    font-weight: normal;
+}
+
+p {
+    color:black;
+    font-size: 15px
+}
