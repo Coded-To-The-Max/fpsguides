@@ -56,8 +56,8 @@ img {
     margin-left: auto;
     margin-right: auto;
     top: 280px;
-    border-width: 940;
-    border
+    
+    
 
 }
 
@@ -82,4 +82,5 @@ body {
     background-repeat: no-repeat;
     overflow: hidden;
     z-index: 1;
+    opacity: 60%;
 }
