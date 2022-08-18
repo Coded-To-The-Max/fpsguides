@@ -51,29 +51,26 @@ img {
 }
 
 .container {
-    position: relative;
     width: 940px;
     margin-left: auto;
     margin-right: auto;
-    top: 280px;
+    margin-top: 280px;
     background-color: rgb(255, 255, 255);
     border-color: rgb(105, 105, 105);
     border-width: 5px;
     border-style: solid;
-    
-    
-
 }
 
 body {
     margin: 0;
-    padding: 9;
+    padding-bottom: 280px;
     font-family: Monaco, Monospace;
     background-color: rgb(0, 0, 0);
-    background-image: url("csgo.jpg");
+    background-image: url("csgoog.jpg");
     background-color: #000000;
     background-repeat: no-repeat;
     background-position: top;
+    height: 100%;
 }
 
 .poster {
@@ -84,7 +81,7 @@ body {
     background-repeat: no-repeat;
     overflow: hidden;
     z-index: 1;
-    opacity: 60%;
+    opacity: 100%;
 }
 
 .content {
