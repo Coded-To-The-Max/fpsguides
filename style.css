@@ -22,13 +22,7 @@ h3 {
     min-height: 100%;
 
 }
-#jpeg {
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-}
+
 h2 {
     text-align: left;
     color:rgb(0, 0, 0);
@@ -70,7 +64,6 @@ body {
     background-color: #000000;
     background-repeat: no-repeat;
     background-position: top;
-    height: 100%;
 }
 
 .poster {
